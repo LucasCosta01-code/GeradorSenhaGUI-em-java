@@ -1,7 +1,7 @@
 <div align="center">
 
-# MSCODEX SECURE VAULT
-### Enterprise Password Generation Suite
+# MSCODEX 
+###  Password Generation 
 
 ![Java](https://img.shields.io/badge/Java-Platform-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Custom_Vector-222?style=for-the-badge&logo=java&logoColor=white)
